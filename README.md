@@ -5,4 +5,4 @@ Estudo de microserviços utilizando Node, Express e MongoDB
 
 - [ ] Adicionar Put 
 
-- [ ] Interface grafica com Angular 
+- [ ] Adicionar Angular no app 
