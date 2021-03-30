@@ -1,8 +1,8 @@
 # microservices-library
 Estudo de microserviços utilizando Node, Express e MongoDB
 
-Projeto Inicial - [X]
+- [ ] Projeto Inicial - [X]
 
-Adicionar Put - [ ]
+- [ ] Adicionar Put 
 
-Interface grafica com Angular - [ ]
+- [ ] Interface grafica com Angular 
